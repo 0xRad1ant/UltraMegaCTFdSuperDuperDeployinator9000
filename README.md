@@ -1,2 +1,2 @@
 # UltraMegaCTFdSuperDuperDeployinator9000
-When you need your CTFd to go brrrr.... 🏎️💨
+I'll be back... with more flags!
